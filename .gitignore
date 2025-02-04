@@ -1,0 +1,11 @@
+.env
+.env
+.streamlit/secrets.toml
+__pycache__/
+*.pyc
+venv/
+*.sqlite
+*.log
+*.DS_Storeweedmaps_crawl.db
+.env
+.streamlit/secrets.toml
